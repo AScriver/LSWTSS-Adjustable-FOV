@@ -9,11 +9,11 @@ This repository contains a Cheat Engine script designed to modify the Field Of V
 
 ## Warning
 
-Please turn off this script if flying in a ship, as it seems to completely break any steering controls.
+Turn off before flying, as it seems to completely break any steering controls.
 
 ## Usage
 
-1. Ensure you have [Cheat Engine 7.5](https://www.cheatengine.org/) installed.
+1. Ensure you have [Cheat Engine](https://www.cheatengine.org/) installed.
 2. Launch "LEGO Star Wars - The Skywalker Saga".
 3. Open Cheat Engine and attach it to the game process.
 4. Load the provided `.CT` script.
